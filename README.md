@@ -1,1 +1,0 @@
-# derivative_calculator
